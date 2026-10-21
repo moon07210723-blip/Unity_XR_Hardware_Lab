@@ -1,5 +1,9 @@
 # XR Interaction Project
 
+## Source Code
+/*
+  -Assets/XR_Game/Scripts/
+*/
 ## プロジェクト概要
 /*
 UnityとC#を使用し、XR環境におけるさまざまなインタラクション機能を実装したプロジェクトです。
