@@ -1,6 +1,6 @@
 # XR Interaction Project
 
-## Source Code
+## ソースコードの場所
 /*
   -Assets/XR_Game/Scripts/
 */
